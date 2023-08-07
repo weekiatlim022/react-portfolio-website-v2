@@ -20,7 +20,7 @@ const data = [
       techniques: 'Techniques used: HTML + CSS + JS + ReactJS'
     },
     github: 'https://github.com/weekiatlim022/react-portfolio-website-v2',
-    demo: 'https://github.com'
+    demo: 'https://weekiatlim022.github.io/react-portfolio-website-v2'
   },
   {
     id: 2,
